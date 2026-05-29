@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "User Management REST API with full DevOps CI/CD pipeline",
   "main": "src/server.js",
+  "type": "module",
   "scripts": {
     "start": "node src/server.js",
     "dev": "nodemon src/server.js",
