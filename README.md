@@ -100,4 +100,4 @@ See the Jenkinsfile for the complete pipeline configuration. Required Jenkins pl
 
 ## Author
 
-[Your Name] - SIT753 Professional Practice in IT
+Sathwik Reddy Thaduru - SIT753 Professional Practice in IT
